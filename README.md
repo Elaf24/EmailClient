@@ -1,5 +1,5 @@
 # Advanced Email Client using JAVA and JAVAFX
-![Logo](https://www.facebook.com/photo.php?fbid=1874869429639355&set=pb.100013489471478.-2207520000&type=3)
+![Logo](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
 
 ## Technologies
 
