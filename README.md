@@ -43,3 +43,4 @@
 - JavaFX web views for email functionalities
 - Running JavaFX programs outside the IDE
 - Handling Java Jar apps and packaging issues
+### UI
