@@ -1,4 +1,4 @@
-# JavaFX Advanced Course
+# Advanced Email Client using JAVA and JAVAFX
 
 ## Technologies
 
