@@ -1,5 +1,5 @@
 # Advanced Email Client using JAVA and JAVAFX
-![Logo](https://www.cleanpng.com/png-java-logo-programming-language-java-plum-964780/)
+![Logo](https://www.facebook.com/photo.php?fbid=1874869429639355&set=pb.100013489471478.-2207520000&type=3)
 
 ## Technologies
 
