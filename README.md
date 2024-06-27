@@ -45,6 +45,8 @@
 - Handling Java Jar apps and packaging issues
 ### User Interface
 <img src="https://github.com/Elaf24/EmailClient/assets/110555263/7f2889f6-acc1-438d-b1f7-42111dbee10b" alt="image" width="400" height="300">
+<img src="https://github.com/Elaf24/EmailClient/assets/110555263/5af22d5f-1679-4628-a768-13f9701ddb82" alt="image" width="400" height="300">
+
 
 
 
