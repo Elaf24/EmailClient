@@ -2,8 +2,8 @@
 
 ## Technologies
 
-### Java <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="40">
-### JavaFX <img src="https://www.clipartmax.com/middle/m2H7K9d3m2Z5N4b1_1-reply-16-retweets-13-likes-javafx-scene-builder-icon/">
+### Java <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="40" style="vertical-align: middle; margin-left: 10px;">
+### JavaFX 
 
 
 ## Concepts
@@ -35,7 +35,7 @@
 - Dynamically updating themes
 - Multi-threading with Tasks, Services, Threads
 - Custom JavaFX nodes
-- - Installation and setup with IDEs (Eclipse or IntelliJ)
+- Installation and setup with IDEs (Eclipse or IntelliJ)
 - FXML for writing UIs
 - JavaFX views and controllers
 - JavaFX CSS for styling
