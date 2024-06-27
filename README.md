@@ -2,7 +2,7 @@
 
 ## Technologies
 
-### Java <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="40" style="vertical-align: middle; margin-left: 10px;">
+### JAVA <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="40" style="vertical-align: middle; margin-left: 10px;">
 ### JavaFX 
 
 
