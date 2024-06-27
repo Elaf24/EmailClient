@@ -3,7 +3,7 @@
 ## Technologies
 
 ### Java <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="40">
-### JavaFX <img src="https://www.pngwing.com/en/free-png-ndnbn" width="40">
+### JavaFX <img src="https://www.clipartmax.com/middle/m2H7K9d3m2Z5N4b1_1-reply-16-retweets-13-likes-javafx-scene-builder-icon/">
 
 
 ## Concepts
