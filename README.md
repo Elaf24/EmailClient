@@ -1,9 +1,10 @@
 # Advanced Email Client using JAVA and JAVAFX
-![Logo](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
+
 
 ## Technologies
 
 ### Java
+![Logo](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
 - Abstract classes
 - Interfaces
 - Inheritance
