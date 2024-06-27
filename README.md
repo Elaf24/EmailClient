@@ -3,7 +3,7 @@
 ## Technologies
 
 ### Java
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="200">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java Logo" width="20">
 
 - Abstract classes
 - Interfaces
